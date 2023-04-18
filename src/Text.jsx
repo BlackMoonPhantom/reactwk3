@@ -26,3 +26,4 @@ const Text = ({ size, color, children }) => {
 };
 
 export default Text;
+// test 
